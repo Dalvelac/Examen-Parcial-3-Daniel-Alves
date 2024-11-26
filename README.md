@@ -54,7 +54,7 @@ Entrega:
     Diagrama de flujo que represente el cronograma de ejecución de las tareas.
 
 
-## Explicación del codigo entregado [Codigo](https://github.com/linkdelcodigo)
+## Explicación del codigo entregado [Codigo](https://github.com/Dalvelac/Examen-Parcial-3-Daniel-Alves/blob/main/Programa.cpp)
 
 El programa utiliza una estructura de datos simple para representar las tareas y sus dependencias, y asigna las tareas a tres personas para ejecutarlas en paralelo.
 Estructura del Código
