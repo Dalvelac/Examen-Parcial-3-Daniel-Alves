@@ -13,11 +13,11 @@ struct Tarea {
     vector<int> dependencias; // Indices de tareas de las que depende
 };
 
-// Funcion para calcular el orden optimo
-void calcularOrdenOptimo(Tarea tareas[], int n) {
+// Funcion para calcular el tiempo minimo con 3 personas
+void calcularOrdenOptimoConPersonas(Tarea tareas[], int n) {
     int gradoEntrada[13] = {0}; // Grado de entrada (dependencias) de cada tarea
-    vector<int> ordenEjecucion;
-    int tiempoTotal = 0;
+    vector<int> ordenEjecucion; // Para registrar el orden de ejecucion
+    int tiemposPersonas[3] = {0, 0, 0}; // Tiempo ocupado por cada persona
 
     // Calcular el grado de entrada para cada tarea
     for (int i = 0; i < n; i++) {
@@ -39,7 +39,10 @@ void calcularOrdenOptimo(Tarea tareas[], int n) {
         int tareaActual = cola.front();
         cola.pop();
         ordenEjecucion.push_back(tareaActual);
-        tiempoTotal += tareas[tareaActual].duracion;
+
+        // Asignar la tarea a la persona que este disponible mas temprano
+        int personaLibre = min_element(tiemposPersonas, tiemposPersonas + 3) - tiemposPersonas;
+        tiemposPersonas[personaLibre] += tareas[tareaActual].duracion;
 
         // Reducir el grado de entrada de las tareas dependientes
         for (int i = 0; i < n; i++) {
@@ -58,12 +61,15 @@ void calcularOrdenOptimo(Tarea tareas[], int n) {
         return;
     }
 
+    // Calcular el tiempo total
+    int tiempoTotal = *max_element(tiemposPersonas, tiemposPersonas + 3);
+
     // Mostrar el resultado
     cout << "Orden optimo de ejecucion de las tareas:\n";
     for (int tarea : ordenEjecucion) {
         cout << tareas[tarea].nombre << " ";
     }
-    cout << "\nTiempo total necesario: " << tiempoTotal << " minutos.\n";
+    cout << "\nTiempo total necesario con 3 personas: " << tiempoTotal << " minutos.\n";
 
     // Evaluar si es posible cumplir con el plazo de 100 minutos
     if (tiempoTotal <= 100) {
@@ -94,7 +100,7 @@ int main() {
     int n = 13; // Numero de tareas
 
     // Calcular el orden optimo y evaluar la viabilidad
-    calcularOrdenOptimo(tareas, n);
+    calcularOrdenOptimoConPersonas(tareas, n);
 
     return 0;
 }
