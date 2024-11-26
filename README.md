@@ -3,7 +3,6 @@
 ## Diagrama de Flujo
 
 ![Diagrama de flujo](https://github.com/Dalvelac/Examen-Parcial-3-Daniel-Alves/blob/main/Diagrama%20de%20flujo.png)
-Creado utilizando lucid.app 
 
 ## Enunciado del ejercicio
 
