@@ -144,3 +144,13 @@ Es posible completar las tareas dentro del limite de 100 minutos.
   - Cada tarea se asigna a la persona con el menor tiempo ocupado.
   - Las dependencias se actualizan dinámicamente para liberar tareas bloqueadas.
 
+
+### Pasos para compilar el código
+
+Para compilar el codigo, se necesita una de las 2:
+- Un IDE como CLion, o VS Code
+- Un ejecutor de codigo online, como el de programiz.com
+
+Una vez descargado el zip, lo único que haria falta seria ejecutar el codigo proporcionado.
+Si se utiliza un ejecutor online, simplemente copia y pega el codigo y ejecutalo.
+
