@@ -157,7 +157,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=Examen_Parcial_3_Daniel_Alves
+CMAKE_PROJECT_NAME:STATIC=Examen_Parcial_3_daniel_alves
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=C:/Program Files/JetBrains/CLion 2024.2.2/bin/mingw/bin/ranlib.exe
@@ -243,6 +243,15 @@ CMAKE_TAPI:FILEPATH=CMAKE_TAPI-NOTFOUND
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
 //Value Computed by CMake
+ExamenParcial_BINARY_DIR:STATIC=C:/Users/v3rmu/Documents/GitHub/Examen-Parcial-3-Daniel-Alves/cmake-build-debug
+
+//Value Computed by CMake
+ExamenParcial_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+ExamenParcial_SOURCE_DIR:STATIC=C:/Users/v3rmu/Documents/GitHub/Examen-Parcial-3-Daniel-Alves
+
+//Value Computed by CMake
 Examen_Parcial_3_Daniel_Alves_BINARY_DIR:STATIC=C:/Users/v3rmu/Documents/GitHub/Examen-Parcial-3-Daniel-Alves/cmake-build-debug
 
 //Value Computed by CMake
@@ -250,6 +259,24 @@ Examen_Parcial_3_Daniel_Alves_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
 Examen_Parcial_3_Daniel_Alves_SOURCE_DIR:STATIC=C:/Users/v3rmu/Documents/GitHub/Examen-Parcial-3-Daniel-Alves
+
+//Value Computed by CMake
+Examen_Parcial_3_daniel_alves_BINARY_DIR:STATIC=C:/Users/v3rmu/Documents/GitHub/Examen-Parcial-3-Daniel-Alves/cmake-build-debug
+
+//Value Computed by CMake
+Examen_Parcial_3_daniel_alves_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Examen_Parcial_3_daniel_alves_SOURCE_DIR:STATIC=C:/Users/v3rmu/Documents/GitHub/Examen-Parcial-3-Daniel-Alves
+
+//Value Computed by CMake
+MiProyecto_BINARY_DIR:STATIC=C:/Users/v3rmu/Documents/GitHub/Examen-Parcial-3-Daniel-Alves/cmake-build-debug
+
+//Value Computed by CMake
+MiProyecto_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+MiProyecto_SOURCE_DIR:STATIC=C:/Users/v3rmu/Documents/GitHub/Examen-Parcial-3-Daniel-Alves
 
 
 ########################

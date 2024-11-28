@@ -1,11 +1,16 @@
 # ninja log v6
-6	378	7543268678132061	CMakeFiles/Examen_Parcial_3_Daniel_Alves.dir/Codigo.cpp.obj	38c244cbab5931b0
-380	585	7543268681882141	Examen_Parcial_3_Daniel_Alves.exe	91ac25740d9248a5
-6	279	7543311854978481	CMakeFiles/Examen_Parcial_3_Daniel_Alves.dir/Codigo.cpp.obj	38c244cbab5931b0
-280	507	7543311857714447	Examen_Parcial_3_Daniel_Alves.exe	91ac25740d9248a5
-6	669	7543313492417064	CMakeFiles/Examen_Parcial_3_Daniel_Alves.dir/Codigo.cpp.obj	38c244cbab5931b0
-670	791	7543313499046600	Examen_Parcial_3_Daniel_Alves.exe	91ac25740d9248a5
-10	429	7543343595539669	CMakeFiles/Examen_Parcial_3_Daniel_Alves.dir/Codigo.cpp.obj	38c244cbab5931b0
-430	650	7543343599732378	Examen_Parcial_3_Daniel_Alves.exe	91ac25740d9248a5
-9	466	7543348094278604	CMakeFiles/Examen_Parcial_3_Daniel_Alves.dir/Codigo.cpp.obj	38c244cbab5931b0
-467	671	7543348098861942	Examen_Parcial_3_Daniel_Alves.exe	91ac25740d9248a5
+9	658	7544957275704211	CMakeFiles/Examen_Parcial_3_Daniel_Alves.dir/Codigo.cpp.obj	38c244cbab5931b0
+659	776	7544957282192572	Examen_Parcial_3_Daniel_Alves.exe	91ac25740d9248a5
+9	79	7544983581773594	CMakeFiles/Examen_Parcial_3_daniel_alves.dir/Crud/Crud.cpp.obj	67ed59ae9413ed83
+29	530	7544983581972924	CMakeFiles/Examen_Parcial_3_daniel_alves.dir/main.cpp.obj	f00d917d88047c14
+13	562	7544983581813472	CMakeFiles/Examen_Parcial_3_daniel_alves.dir/Tarea/Tarea.cpp.obj	3464c63513d0363
+3	636	7544983581723763	CMakeFiles/Examen_Parcial_3_daniel_alves.dir/Actor/Actor.cpp.obj	57e41e37eccc1308
+17	654	7544983581863299	CMakeFiles/Examen_Parcial_3_daniel_alves.dir/Launcher/Launcher.cpp.obj	f2b9999b5425f332
+655	753	7544983588231998	Examen_Parcial_3_daniel_alves.exe	6218cc905217e15d
+11	386	7544984778546436	CMakeFiles/Examen_Parcial_3_daniel_alves.dir/main.cpp.obj	f00d917d88047c14
+5	519	7544984778496590	CMakeFiles/Examen_Parcial_3_daniel_alves.dir/Launcher/Launcher.cpp.obj	f2b9999b5425f332
+520	627	7544984783631378	Examen_Parcial_3_daniel_alves.exe	6218cc905217e15d
+10	404	7544987909118567	CMakeFiles/Examen_Parcial_3_daniel_alves.dir/Tarea/Tarea.cpp.obj	3464c63513d0363
+6	525	7544987909078691	CMakeFiles/Examen_Parcial_3_daniel_alves.dir/Actor/Actor.cpp.obj	57e41e37eccc1308
+14	583	7544987909158431	CMakeFiles/Examen_Parcial_3_daniel_alves.dir/Launcher/Launcher.cpp.obj	f2b9999b5425f332
+583	683	7544987914846227	Examen_Parcial_3_daniel_alves.exe	6218cc905217e15d
