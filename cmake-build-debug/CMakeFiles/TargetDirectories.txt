@@ -1,3 +1,0 @@
-C:/Users/v3rmu/Documents/GitHub/Examen-Parcial-3-Daniel-Alves/cmake-build-debug/CMakeFiles/Examen_Parcial_3_daniel_alves.dir
-C:/Users/v3rmu/Documents/GitHub/Examen-Parcial-3-Daniel-Alves/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/v3rmu/Documents/GitHub/Examen-Parcial-3-Daniel-Alves/cmake-build-debug/CMakeFiles/rebuild_cache.dir
