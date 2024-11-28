@@ -1,8 +1,8 @@
 #ifndef LAUNCHER_H
 #define LAUNCHER_H
 
-#include "Actor.h"
-#include "Tarea.h"
+#include "..\Actor/Actor.h"
+#include "..\Tarea/Tarea.h"
 #include <vector>
 
 class Launcher {

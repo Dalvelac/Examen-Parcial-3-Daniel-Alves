@@ -2,7 +2,7 @@
 #define ACTOR_H
 
 #include <vector>
-#include "Tarea.h"
+#include "..\Tarea/Tarea.h"
 #include <string>
 
 class Actor {
